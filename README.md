@@ -2,8 +2,8 @@
 <br>
 
 ## 1. 프로젝트 개요
-프로젝트 URL : https://ally802.github.io/class-time/ <br>
 이 프로젝트는 제가 2학년 1학기 수업 시간에 만든 작품으로 여러 가지 풍경 사진으로 구성되었습니다. <br><br>
+프로젝트 URL : https://ally802.github.io/class-time/ <br><Br>
 
 ## 2. 사용 언어 및 개발 환경
 HTML5, CSS, Java Scraipt를 바탕으로 제작되었습니다. <br>
